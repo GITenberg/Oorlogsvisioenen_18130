@@ -1,0 +1,33 @@
+_repo: Oorlogsvisioenen_18130
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buysse, Cyriel
+    aliases:
+    - Buysse, Cyrillus Gustave Emile
+    - Buysse, Cyriël
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '3480'
+    url: http://www.gutenberg.org/2009/agents/3480
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Cyriel_Buysse
+    - http://en.wikipedia.org/wiki/Cyriel_Buysse
+description: ''
+gutenberg_issued: '2006-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18130'
+  lccn: '25012794'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: Oorlogsvisioenen
+url: http://www.gutenberg.org/ebooks/18130
