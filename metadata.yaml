@@ -17,6 +17,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Cyriel_Buysse
     - http://en.wikipedia.org/wiki/Cyriel_Buysse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18130#Oorlogsvisioenen
 gutenberg_issued: '2006-04-08'
 gutenberg_type: Text
 identifiers:
